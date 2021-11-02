@@ -21,6 +21,7 @@ public class Post {
     private Donut donut;
     private int postponedId;
 
+    
     private String avatarUrl;
     private String publicName;
     private String dateAndTimeOfPost;    // private int date;
